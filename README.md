@@ -26,9 +26,11 @@
 # Instrucciones para la ejecución del API
 
 1. Primero modifica la información de la base de datos local en el archivo application.properties en la ruta "Proyecto/src/main/java/resources. Edita las siguientes variables:
-    spring.datasource.url=jdbc:mysql://localhost:3306/optima
-  spring.datasource.username=root
-  spring.datasource.password=1234
+   spring.datasource.url=jdbc:mysql://localhost:3306/optima
+   
+   spring.datasource.username=root
+   
+   spring.datasource.password=1234
 
 3. Ejecuta el comando "mvn clean package" en una terminal dentro de la carpeta Proyecto
 

@@ -18,7 +18,7 @@
 ![6](imgs/6.PNG)
 
 7. Tabla usuario en la base de datos MySQL
-![7](imgs/8.PNG)
+![7](imgs/7.PNG)
 
 8. Tabla cita en la base de datos MySQL
 ![8](imgs/8.PNG)
